@@ -16,3 +16,6 @@ Run the script manually by passing your log directory:
 ./log-archive.sh /path/to/logs
 ## Project URL
 https://roadmap.sh/projects/log-archive-tool
+
+## Project URL
+https://roadmap.sh/projects/log-archive-tool
