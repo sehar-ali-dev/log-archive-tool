@@ -1,0 +1,4 @@
+*.tar.gz
+archived_logs/
+archive_history.log
+test_logs/
