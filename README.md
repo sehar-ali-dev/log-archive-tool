@@ -14,3 +14,5 @@ A production-ready Bash script designed for Linux environments to compress serve
 Run the script manually by passing your log directory:
 ```bash
 ./log-archive.sh /path/to/logs
+## Project URL
+https://roadmap.sh/projects/log-archive-tool
